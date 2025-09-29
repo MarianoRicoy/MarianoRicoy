@@ -1,56 +1,89 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliDev/MicaelliDev/main/image/dev.gif" alt="GIF animado de desarrollo web" width="600"/>
+<div align="center">
+  <h1>¡Hola! 👋 Soy Mariano Ricoy</h1>
+</div>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+<h2>✨ Desarrollador Frontend | React & Next.js</h2>
+<p>
+Soy un **desarrollador frontend con una sólida base Fullstack**, apasionado por construir interfaces de usuario atractivas, intuitivas y de alto rendimiento. <br>
+Mi enfoque principal es crear experiencias web dinámicas y optimizadas, utilizando mis conocimientos para diseñar soluciones Frontend escalables y bien integradas.<br>
+<br>
+✨ Profesional **proactivo**, orientado a la **resolución de problemas** y con una fuerte capacidad para el **trabajo en equipo**.<br>
+Mi background Fullstack me permite comprender la arquitectura completa de una aplicación, facilitando la colaboración efectiva y la entrega de productos de alta calidad.
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy <Tu Nombre/Apodo></h1>
-
-<p align="center">
-  🚀 Desarrollador Frontend apasionado por crear experiencias de usuario (UX) atractivas e interfaces interactivas (UI). Me encanta convertir ideas de diseño en código funcional y responsivo.
+<h3>🇺🇸 About Me</h3>
+<p>
+I'm a passionate **Frontend Developer** with a strong **Fullstack background**, focused on building appealing, intuitive, and high-performance user interfaces.<br>
+My main goal is to create dynamic and optimized web experiences, leveraging my knowledge to design scalable and well-integrated Frontend solutions.<br>
+<br>
+✨ I am a **proactive** professional, **problem-solving oriented**, and possess strong **teamwork skills**.<br>
+My Fullstack background allows me to understand the entire application architecture, facilitating effective collaboration and the delivery of high-quality products.
 </p>
 
----
+<br>
 
-## 🛠️ Stack de Tecnologías Frontend
+<h2>📫 Contáctame</h2>
+<p>
+📧 **Email:** [Tu Email Aquí] (Ej. mariano.ricoy.dev@gmail.com)<br>
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mariano-ricoy">linkedin.com/in/mariano-ricoy</a> (Asegúrate de reemplazar con tu URL real)<br>
+🌐 **Portfolio (Próximamente):** (Si planeas uno, déjalo, sino puedes omitirlo o poner tu GitHub Pages si tienes)
+</p>
+</td>
 
-Me especializo en el ecosistema JavaScript y disfruto trabajando con las siguientes herramientas:
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | **HTML5**, **CSS3** (incluyendo **Sass/Less**), **JavaScript** (ES6+) |
-| **Frameworks/Librerías** | **React.js** (Mi favorito), **Next.js**, **Vue.js** (Si aplica), **Tailwind CSS**, **Bootstrap** |
-| **Herramientas** | **Git/GitHub**, **VS Code**, **Figma** (para inspección de diseños), **Webpack/Vite** |
-
----
-
-## 💡 Mis Proyectos Destacados
-
-Echa un vistazo a algunos de mis trabajos recientes que demuestran mis habilidades en **Frontend**:
-
-| Proyecto | Descripción Breve | Tecnologías Usadas | Enlace |
-| :--- | :--- | :--- | :--- |
-| **<Nombre del Proyecto 1>** | <Descripción de 1 línea, ej: Una app de e-commerce minimalista y responsiva.> | React, Styled Components, Redux | [Ver en VIVO](<Link a la demo>) / [Código](<Link al repositorio>) |
-| **<Nombre del Proyecto 2>** | <Descripción de 1 línea, ej: Clon de una interfaz popular para practicar Grid/Flexbox y animaciones.> | HTML5, CSS3 (Sass), JavaScript | [Ver en VIVO](<Link a la demo>) / [Código](<Link al repositorio>) |
-| **<Nombre del Proyecto 3>** | <Descripción de 1 línea, ej: Aplicación de gestión de tareas (TODO) con persistencia de datos local.> | Vue.js, Vuex, Firebase (Solo si aplica) | [Ver en VIVO](<Link a la demo>) / [Código](<Link al repositorio>) |
-
-*Puedes añadir o quitar filas según el número de proyectos que quieras destacar.*
-
----
-
-## 🤝 Conectemos
-
-Siempre estoy abierto a colaborar en proyectos interesantes y aprender cosas nuevas. ¡No dudes en contactarme!
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](<Tu Enlace de LinkedIn>)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](<Tu Enlace de Twitter>)
-[![Mail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:<Tu Correo Electrónico>)
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<Tu Nombre de Usuario>&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<Tu Nombre de Usuario>&theme=vue-dark&hide_border=true" alt="Racha de Contribuciones" />
+<td width="50%" valign="top">
+<h2>🛠️ Mi Stack de Tecnología</h2>
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/></a>
+<a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/></a>
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </p>
 
-*No olvides reemplazar `<Tu Nombre de Usuario>` en la sección de estadísticas para que muestre las tuyas.*
+<h2>🌱 Más sobre mí</h2>
+<ul>
+<li>🌍 **Ubicación:** Miramar, Provincia de Buenos Aires, Argentina</li>
+<li>👨‍💻 **Rol Actual:** TA (Teaching Assistant) en Henry.</li>
+<li>🏄 **Experiencia Diversa:** Más de 20 años como instructor de surf y experiencia previa en gestión de equipos grandes en gastronomía (incluyendo mi propio restaurante).</li>
+<li>💡 **Intereses:** Aprendizaje continuo de nuevas tecnologías, surf, mentoría y trabajo colaborativo.</li>
+</ul>
+
+<h2>🎓 Educación</h2>
+<ul>
+<li>**Henry:** Fullstack Developer Bootcamp (Abril 2024 - Actualidad). 800+ horas de programación intensiva con especialización en Frontend.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Proyectos Destacados
+
+Esta es una selección de mis proyectos más relevantes que demuestran mi capacidad para construir soluciones Frontend de alta calidad y mi versatilidad como desarrollador.
+
+### 💎 StuddioConnect – Plataforma de Conexión para Músicos (Proyecto Estrella)
+* **Descripción:** Plataforma web colaborativa dinámica diseñada para conectar músicos con salas de grabación, ensayo y producción. Permite a los usuarios buscar, reservar y gestionar espacios, y a los propietarios de estudios ofrecer y administrar sus servicios. Lideré el desarrollo Frontend de este proyecto, que obtuvo la calificación más alta de nuestra cohorte en Henry.
+* **Mi Rol:** Desarrollador Frontend (Co-líder de equipo).
+* **Tecnologías Clave:** **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML, CSS. **Backend (integración):** Node.js, Express, PostgreSQL, MongoDB.
+* 🔗 [**Repositorio Frontend**](https://github.com/studioconnect2025/studioconnect_front) | 🌐 [**Demo en Vivo**](https://studioconnect-front.vercel.app/)
+
+---
+
+<div align="center">
+  <h3>Estadísticas de GitHub</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarianoRicoy&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub de Mariano Ricoy"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarianoRicoy&theme=radical&hide_border=true" alt="Racha de Contribuciones de GitHub de Mariano Ricoy"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoRicoy&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Más Usados de Mariano Ricoy"/>
+</div>
