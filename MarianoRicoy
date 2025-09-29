@@ -4,39 +4,25 @@
 
 ---
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-<h2>✨ Desarrollador Frontend | React & Next.js</h2>
-<p>
-Soy un **desarrollador frontend con una sólida base Fullstack**, apasionado por construir interfaces de usuario atractivas, intuitivas y de alto rendimiento. <br>
-Mi enfoque principal es crear experiencias web dinámicas y optimizadas, utilizando mis conocimientos para diseñar soluciones Frontend escalables y bien integradas.<br>
-<br>
-✨ Profesional **proactivo**, orientado a la **resolución de problemas** y con una fuerte capacidad para el **trabajo en equipo**.<br>
+## ✨ Desarrollador Frontend | React & Next.js
+
+Soy un **desarrollador frontend con una sólida base Fullstack**, apasionado por construir interfaces de usuario atractivas, intuitivas y de alto rendimiento. Mi enfoque principal es crear experiencias web dinámicas y optimizadas, utilizando mis conocimientos para diseñar soluciones Frontend escalables y bien integradas.
+
+✨ Profesional **proactivo**, orientado a la **resolución de problemas** y con una fuerte capacidad para el **trabajo en equipo**.
 Mi background Fullstack me permite comprender la arquitectura completa de una aplicación, facilitando la colaboración efectiva y la entrega de productos de alta calidad.
-</p>
 
-<h3> About Me </h3>
-<p>
-I'm a passionate **Frontend Developer** with a strong **Fullstack background**, focused on building appealing, intuitive, and high-performance user interfaces.<br>
-My main goal is to create dynamic and optimized web experiences, leveraging my knowledge to design scalable and well-integrated Frontend solutions.<br>
-<br>
-✨ I am a **proactive** professional, **problem-solving oriented**, and possess strong **teamwork skills**.<br>
+### About Me
+
+I'm a passionate **Frontend Developer** with a strong **Fullstack background**, focused on building appealing, intuitive, and high-performance user interfaces.
+My main goal is to create dynamic and optimized web experiences, leveraging my knowledge to design scalable and well-integrated Frontend solutions.
+
+✨ I am a **proactive** professional, **problem-solving oriented**, and possess strong **teamwork skills**.
 My Fullstack background allows me to understand the entire application architecture, facilitating effective collaboration and the delivery of high-quality products.
-</p>
 
 <br>
 
-<h2>📫 Contáctame</h2>
-<p>
-📧 **Email:** <a href="mfricoy@gmail.com">mfricoy@gmail.com</a><br>
-💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mariano-ricoy">linkedin.com/in/mariano-ricoy</a><br>
-🌐 **Portfolio (Próximamente):** 
-</p>
-</td>
+## 🛠️ Mi Stack de Tecnología
 
-<td width="50%" valign="top">
-<h2>🛠️ Mi Stack de Tecnología</h2>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/></a>
@@ -51,21 +37,28 @@ My Fullstack background allows me to understand the entire application architect
 <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </p>
 
-<h2>🌱 Más sobre mí</h2>
-<ul>
-<li>🌍 **Ubicación:** Miramar, Provincia de Buenos Aires, Argentina</li>
-<li>👨‍💻 **Rol Actual:** TA (Teaching Assistant) en Henry.</li>
-<li>🏄 **Experiencia Diversa:** Más de 20 años como instructor de surf y experiencia previa en gestión de equipos grandes en gastronomía (incluyendo mi propio restaurante).</li>
-<li>💡 **Intereses:** Aprendizaje continuo de nuevas tecnologías, surf, mentoría y trabajo colaborativo.</li>
-</ul>
+---
 
-<h2>🎓 Educación</h2>
-<ul>
-<li>**Henry:** Fullstack Developer Bootcamp (Abril 2024 - Actualidad). 800+ horas de programación intensiva con especialización en Frontend.</li>
-</ul>
-</td>
-</tr>
-</table>
+## 🌱 Más sobre mí
+
+* 🌍 **Ubicación:** Miramar, Provincia de Buenos Aires, Argentina 🇦🇷
+* 👨‍💻 **Rol Actual:** TA (Teaching Assistant) en Henry.
+* 🏄 **Experiencia Diversa:** Más de 20 años como instructor de surf y experiencia previa en gestión de equipos grandes en gastronomía (incluyendo mi propio restaurante).
+* 💡 **Intereses:** Aprendizaje continuo de nuevas tecnologías, surf, mentoría y trabajo colaborativo.
+
+---
+
+## 🎓 Educación
+
+* **Henry:** Fullstack Developer Bootcamp (Abril 2024 - Actualidad). 800+ horas de programación intensiva con especialización en Frontend.
+
+---
+
+## 📫 Contáctame
+
+* 📧 **Email:** <a href="mailto:mfricoy@gmail.com">mfricoy@gmail.com</a>
+* 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mariano-ricoy">linkedin.com/in/mariano-ricoy</a>
+* 🌐 **Portfolio (Próximamente):** (Si planeas uno, déjalo, sino puedes omitirlo o poner tu GitHub Pages si tienes)
 
 ---
 
@@ -76,7 +69,7 @@ Esta es una selección de mis proyectos más relevantes que demuestran mi capaci
 ### 💎 StuddioConnect – Plataforma de Conexión para Músicos (Proyecto Estrella)
 * **Descripción:** Plataforma web colaborativa dinámica diseñada para conectar músicos con salas de grabación, ensayo y producción. Permite a los usuarios buscar, reservar y gestionar espacios, y a los propietarios de estudios ofrecer y administrar sus servicios. Lideré el desarrollo Frontend de este proyecto, que obtuvo la calificación más alta de nuestra cohorte en Henry.
 * **Mi Rol:** Desarrollador Frontend (Co-líder de equipo).
-* **Tecnologías Clave:** **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML, CSS. **Backend (integración):** Node.js, Express, PostgreSQL, MongoDB.
+* **Tecnologías Clave:** **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML, CSS. **Backend (integración)::** Node.js, Express, PostgreSQL, MongoDB.
 * 🔗 [**Repositorio Frontend**](https://github.com/studioconnect2025/studioconnect_front) | 🌐 [**Demo en Vivo**](https://studioconnect-front.vercel.app/)
 
 ---
