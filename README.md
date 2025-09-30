@@ -58,13 +58,13 @@ My Fullstack background allows me to understand the entire application architect
 
 * 📧 **Email:** <a href="mailto:mfricoy@gmail.com">mfricoy@gmail.com</a>
 * 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mariano-ricoy">linkedin.com/in/mariano-ricoy</a>
-* 🌐 **Portfolio (Próximamente):** (Si planeas uno, déjalo, sino puedes omitirlo o poner tu GitHub Pages si tienes)
+* 🌐 **Portfolio (Próximamente):** 
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 💎 StudioConnect – Plataforma de Conexión para Músicos (Proyecto Estrella)
+### 💎 StudioConnect – Plataforma de Conexión para Músicos 
 * **Descripción:** Plataforma web colaborativa dinámica diseñada para conectar músicos con salas de grabación, ensayo y producción. Permite a los usuarios buscar, reservar y gestionar espacios, y a los propietarios de estudios ofrecer y administrar sus servicios. Lideré el desarrollo Frontend de este proyecto, que obtuvo la calificación más alta de nuestra cohorte en Henry.
 * **Mi Rol:** Desarrollador Frontend (Co-líder de equipo).
 * **Tecnologías Clave:** **Frontend:** React, Next.js, TypeScript, Tailwind CSS. **Backend:** Node.js, Express, PostgreSQL, MongoDB.  
