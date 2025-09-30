@@ -70,7 +70,7 @@ My Fullstack background allows me to understand the entire application architect
 * **Tecnologías Clave:** **Frontend:** React, Next.js, TypeScript, Tailwind CSS. **Backend:** Node.js, Express, PostgreSQL, MongoDB.  
 * 🔗 [**Repositorio Frontend**](https://github.com/studioconnect2025/studioconnect_front) | 🌐 [**Demo en Vivo**](https://studioconnect-front.vercel.app/)
 
-![StudioConnect Screenshot](https://raw.githubusercontent.com/studioconnect2025/studioconnect_front/main/front/screenshots/Home.png)
+![StudioConnect Screenshot](https://raw.githubusercontent.com/MarianoRicoy/MarianoRicoy/main/assets/studioconnect-home.jpg)
 
 ---
 
