@@ -64,13 +64,31 @@ My Fullstack background allows me to understand the entire application architect
 
 ## 🚀 Proyectos Destacados
 
-Esta es una selección de mis proyectos más relevantes que demuestran mi capacidad para construir soluciones Frontend de alta calidad y mi versatilidad como desarrollador.
-
-### 💎 StuddioConnect – Plataforma de Conexión para Músicos (Proyecto Estrella)
+### 💎 StudioConnect – Plataforma de Conexión para Músicos (Proyecto Estrella)
 * **Descripción:** Plataforma web colaborativa dinámica diseñada para conectar músicos con salas de grabación, ensayo y producción. Permite a los usuarios buscar, reservar y gestionar espacios, y a los propietarios de estudios ofrecer y administrar sus servicios. Lideré el desarrollo Frontend de este proyecto, que obtuvo la calificación más alta de nuestra cohorte en Henry.
 * **Mi Rol:** Desarrollador Frontend (Co-líder de equipo).
-* **Tecnologías Clave:** **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML, CSS. **Backend (integración)::** Node.js, Express, PostgreSQL, MongoDB.
+* **Tecnologías Clave:** **Frontend:** React, Next.js, TypeScript, Tailwind CSS. **Backend:** Node.js, Express, PostgreSQL, MongoDB.  
 * 🔗 [**Repositorio Frontend**](https://github.com/studioconnect2025/studioconnect_front) | 🌐 [**Demo en Vivo**](https://studioconnect-front.vercel.app/)
+
+![StudioConnect Screenshot](https://raw.githubusercontent.com/studioconnect2025/studioconnect_front/main/front/screenshots/Home.png)
+
+---
+
+### 🖥️ Tech E-commerce
+* **Descripción:** E-commerce de productos tecnológicos desarrollado en el Módulo 4 de Soy Henry. Incluye login, registro, rutas protegidas, carrito persistente y dashboard de pedidos.
+* **Tecnologías Clave:** React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL.  
+* 🔗 [**Repositorio**](https://github.com/MarianoRicoy/tech-ecommerce)
+
+![Tech E-commerce Screenshot](https://raw.githubusercontent.com/MarianoRicoy/tech-ecommerce/main/front/screenshots/Home.png)
+
+---
+
+### 🎶 Vinyl House
+* **Descripción:** E-commerce de vinilos con sistema de autenticación, carrito de compras y vistas de detalle de producto. Proyecto orientado al Frontend con integración a un backend en Node.js y PostgreSQL.
+* **Tecnologías Clave:** React, Vite, Tailwind CSS, Node.js, Express, PostgreSQL.  
+* 🔗 [**Repositorio**](https://github.com/MarianoRicoy/vinyl-house)
+
+![Vinyl House Screenshot](https://raw.githubusercontent.com/MarianoRicoy/vinyl-house/main/front/screenshots/Home.png)
 
 ---
 
