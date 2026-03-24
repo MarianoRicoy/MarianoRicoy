@@ -64,7 +64,19 @@ My Fullstack background allows me to understand the entire application architect
 
 ## 🚀 Proyectos Destacados
 
-### 💎 StudioConnect – Plataforma de Conexión para Músicos 
+### � Stock Control — Sukha
+* **Descripción:** Aplicación web para control de stock con carga de ventas, ingresos/ajustes de stock, reportes e imágenes por producto.
+* **Tecnologías Clave:** React + Vite, Tailwind CSS, Node.js, Express, Supabase (Postgres + Storage).
+* 🔗 **Demo en Vivo:** https://sukha-papeleria-creativa-stock.vercel.app
+* 🔗 **Repositorio:** https://github.com/MarianoRicoy/sukha-papeleria-creativa-stock-
+
+![Stock Control - Login](https://raw.githubusercontent.com/MarianoRicoy/MarianoRicoy/main/assets/sukha/login.png)
+![Stock Control - Productos](https://raw.githubusercontent.com/MarianoRicoy/MarianoRicoy/main/assets/sukha/productos.png)
+![Stock Control - Ventas](https://raw.githubusercontent.com/MarianoRicoy/MarianoRicoy/main/assets/sukha/ventas.png)
+
+---
+
+### �💎 StudioConnect – Plataforma de Conexión para Músicos 
 * **Descripción:** Plataforma web colaborativa dinámica diseñada para conectar músicos con salas de grabación, ensayo y producción. Permite a los usuarios buscar, reservar y gestionar espacios, y a los propietarios de estudios ofrecer y administrar sus servicios. Lideré el desarrollo Frontend de este proyecto, que obtuvo la calificación más alta de nuestra cohorte en Henry.
 * **Mi Rol:** Desarrollador Frontend (Co-líder de equipo).
 * **Tecnologías Clave:** **Frontend:** React, Next.js, TypeScript, Tailwind CSS. **Backend:** Node.js, Express, PostgreSQL, MongoDB.  
