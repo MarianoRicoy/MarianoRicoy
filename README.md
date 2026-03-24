@@ -42,7 +42,7 @@ My Fullstack background allows me to understand the entire application architect
 ## 🌱 Más sobre mí
 
 * 🌍 **Ubicación:** Miramar, Provincia de Buenos Aires, Argentina 🇦🇷
-* 👨‍💻 **Rol Actual:** TA (Teaching Assistant) en Henry.
+* 👨‍💻 **Rol Actual:** Frontend Lead / Jefe de Área de Frontend en TWS.
 * 🏄 **Experiencia Diversa:** Más de 20 años como instructor de surf y experiencia previa en gestión de equipos grandes en gastronomía (incluyendo mi propio restaurante).
 * 💡 **Intereses:** Aprendizaje continuo de nuevas tecnologías, surf, mentoría y trabajo colaborativo.
 
